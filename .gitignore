@@ -1,12 +1,26 @@
+<<<<<<< HEAD
 # Java
 *.class
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+>>>>>>> b3e5b0415ffd9958c989a2084c2ecb3185963269
 *.jar
 *.war
 *.ear
 
+<<<<<<< HEAD
 # IntelliJ
 *.iml
 *.ipr
 *.iws
 .idea/
 out/
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> b3e5b0415ffd9958c989a2084c2ecb3185963269
